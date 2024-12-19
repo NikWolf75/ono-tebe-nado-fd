@@ -109,12 +109,12 @@
   font-size: 22px;
   color: #fff;
   word-spacing: 18.5px;
-  line-height: 127%;
+  line-height: 130%;
   white-space: nowrap;
   text-transform: uppercase;
 }
 
-.bet-button {
+.button {
   font-family: Raleway, sans-serif;
   width: 256px;
   height: 51px;

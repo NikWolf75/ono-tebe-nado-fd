@@ -101,7 +101,7 @@
   align-items: center;
   justify-content: start;
   line-height: 140%;
-  gap: 107px;
+  gap: 90px;
   padding: 7px 0 49px 0;
 }
 
@@ -114,7 +114,7 @@
   text-transform: uppercase;
 }
 
-.bet-button {
+.button {
   font-family: Raleway, sans-serif;
   width: 256px;
   height: 51px;

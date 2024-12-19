@@ -265,10 +265,10 @@
 }
 
 .footer__menu-link {
-  text-underline-position: under;
+  text-decoration: none;
 }
 
-.footer__menu-link-active {
+.footer__menu-link_active {
   text-decoration: none;
 }
 
